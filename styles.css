@@ -1,2 +1,6 @@
 
-/* Your CSS Code here. *
+/* Your CSS Code here. */
+.table-responsive {
+     max-width: 150px;
+     overflow: scroll;
+}
